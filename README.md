@@ -22,30 +22,9 @@ Be sure to import the module at the top of your .swift files:
 import OrderedSet
 ```
 
-### CocoaPods
-
-`OrderedSet` is available through [CocoaPods](http://cocoapods.org). To install, simply include the following lines in your podfile:
-```ruby
-use_frameworks!
-pod 'SwiftOrderedSet'
-```
-Be sure to import the module at the top of your .swift files:
-```swift
-import SwiftOrderedSet
-```
-### Carthage
-`OrderedSet` is available through [Carthage](https://github.com/Carthage/Carthage). Just add the following to your cartfile:
-```
-github "bradhilton/OrderedSet"
-```
-Be sure to import the module at the top of your .swift files:
-```swift
-import OrderedSet
-```
-
 ## Author
 
-Brad Hilton, brad.hilton.nw@gmail.com
+Forked from a repo by Brad Hilton, https://github.com/bradhilton
 
 ## License
 
