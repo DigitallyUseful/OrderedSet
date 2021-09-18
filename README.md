@@ -15,7 +15,7 @@ names.isSupersetOf(["Susan", "Jake"]) // false
 ### Swift Package Manager
 You can build `OrderedSet` using the [Swift Package Manager](https://github.com/apple/swift-package-manager). Just include `OrderedSet` as a package in your dependencies:
 ```
-.Package(url: "https://github.com/bradhilton/OrderedSet.git", majorVersion: 1)
+.package(url: "https://github.com/DigitallyUseful/OrderedSet", from: "1.0.0")
 ```
 Be sure to import the module at the top of your .swift files:
 ```swift
